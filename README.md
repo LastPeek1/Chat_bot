@@ -1,4 +1,2 @@
-"# Chat_bot" 
-"# Chat_bot" 
-"# Chat_bot" 
-"# Chat_bot" 
+pip install ffmpeg-downloader
+ffdl install --add-path
